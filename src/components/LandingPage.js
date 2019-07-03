@@ -11,7 +11,7 @@ export default class LandingPage extends Component {
           <Cell col={12}>
             <img src={myimage} alt="fahad" className="avatar-img"/>
             <div className="banner-text">
-                <h1>Full Stack Web and Mobile Developer</h1>
+                <h1>Web and Mobile Developer</h1>
                 <hr />
                 <p>HTML/CSS | Java | JavaScript | React | React-Native | Nodejs | MongoDB</p>
                 <div className="social-links"  >
