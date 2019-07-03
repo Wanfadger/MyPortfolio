@@ -20,7 +20,7 @@ export default class Projects extends Component {
 
           {/*project 1 */}
           <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
-          <CardTitle style={{color:'white', height:'176px', background: `url(${Background}) center / cover`}}>React Project #1</CardTitle>
+          <CardTitle style={{color:'white', height:'176px', background: `url(${Background}) center / cover`}}>Java Projects</CardTitle>
           <CardText>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore
@@ -37,7 +37,7 @@ tempor incididunt ut labore et dolore
 
           {/*project 2 */}
           <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
-          <CardTitle style={{color:'white', height:'176px', background: `url(${Background}) center / cover`}}>React Project #1</CardTitle>
+          <CardTitle style={{color:'white', height:'176px', background: `url(${Background}) center / cover`}}>Android Projects</CardTitle>
           <CardText>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore
@@ -54,7 +54,7 @@ tempor incididunt ut labore et dolore
 
           {/*project 3 */}
           <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
-          <CardTitle style={{color:'black', height:'176px', background: `url(${Background}) center / cover`}}>React Project #1</CardTitle>
+          <CardTitle style={{color:'black', height:'176px', background: `url(${Background}) center / cover`}}>JavaScript Projects</CardTitle>
           <CardText>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore
@@ -79,7 +79,7 @@ tempor incididunt ut labore et dolore
 
         {/*project 1 */}
           <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
-          <CardTitle style={{color:'black', height:'176px', background: `url(${Bg}) center / cover`}}>Angular Project #1</CardTitle>
+          <CardTitle style={{color:'black', height:'176px', background: `url(${Bg}) center / cover`}}>Android Projects</CardTitle>
           <CardText>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore

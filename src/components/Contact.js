@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import {Grid,Cell, List,ListItem,ListItemContent,} from 'react-mdl';
-import logo from './lila.jpg';
+import logo from './wanfadger.jpg';
 
 
 export default class Contact extends Component {
@@ -8,35 +8,30 @@ export default class Contact extends Component {
     return (
       <div className="contact-body">
         <Grid className="contact-grid">
-          <Cell col={6}>
-          <h2>Lailah Grant</h2>
-          <img src={logo} alt="lailah" style={{height:'250px'}} />
+          <Cell col={4}>
+          <h2>Galiwango Fahad</h2>
+          <img src={logo} alt="Fahad" style={{height:'250px'}} />
           <p style={{width:'75%', margin:'auto', paddingTop:'1em'}}>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt 
+         wanfadger is  an ambitious self-motivated software engineer who has the necessary IT skills with good team spirit
 </p>
 
           </Cell>
-          <Cell col={6}>
+          <Cell col={7}>
             <h2>Contact Me</h2>
             <hr />
 
             <div className="contact-list">
             <List>
               <ListItem>
-                <ListItemContent style={{fontSize:'30px', fontFamily:''}} ><i  className="fa fa-phone-square"/>(+256)703993262</ListItemContent>
+                <ListItemContent style={{fontSize:'25px', fontFamily:''}} ><i  className="fa fa-phone-square"/>(+256)759117989</ListItemContent>
               </ListItem>
 
               <ListItem>
-                <ListItemContent style={{fontSize:'30px', fontFamily:''}} ><i className="fa fa-fax" />(+256)703993262</ListItemContent>
+                <ListItemContent style={{fontSize:'25px', fontFamily:''}} ><i className="fa fa-fax" />(+256)784490559</ListItemContent>
               </ListItem>
 
               <ListItem>
-                <ListItemContent style={{fontSize:'30px', fontFamily:''}} ><i className="fa fa-envelope" />someone@example.omc</ListItemContent>
+                <ListItemContent style={{fontSize:'25px', fontFamily:''}} ><i className="fa fa-envelope" />galiwango.fahad@gmail.com</ListItemContent>
               </ListItem>
 
               <ListItem>
